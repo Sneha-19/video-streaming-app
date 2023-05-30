@@ -1,0 +1,25 @@
+{
+  "name": "video-streaming-platform",
+  "version": "1.0.0",
+  "description": "React application",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sneha-19/video-streaming-app.git"
+  },
+  "author": "SNEHA SINGH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sneha-19/video-streaming-app/issues"
+  },
+  "homepage": "https://github.com/Sneha-19/video-streaming-app#readme",
+  "devDependencies": {
+    "parcel": "^2.9.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
